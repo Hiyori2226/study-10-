@@ -4,5 +4,4 @@ CHEST 4 2
 ; WARP A 3 4
 ; WARP A 18 12
 ; SWITCH B 5 8
-; DOOR B 10 8
-																							
+; DOOR B 10 5									
